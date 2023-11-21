@@ -1,4 +1,5 @@
-﻿# Documentação para o Seu Repositório no GitHub
+﻿# Documentação 
+
 
 Esta é a documentação README para o seu servidor de upload e streaming de arquivos de áudio baseado em Node.js, usando Express e Multer. Esta aplicação permite aos usuários fazer o upload de arquivos de áudio, listar músicas disponíveis e transmitir arquivos de áudio por meio de seus IDs exclusivos. Aqui, forneceremos uma visão geral, instruções para configuração e explicaremos os vários endpoints e funcionalidades do servidor.
 
